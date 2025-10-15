@@ -1,0 +1,73 @@
+
+Substitution 替代反应
+    alkane 的第二种反应
+    和 halogen 发生替换反应
+    alkane 中的 H 和 Cl, Br 替换
+
+    需要在UV光或阳光下发生
+
+    如 Methane CH4 和 Chlorine Cl2
+    CH4 + Cl2 -> CH3 Cl + HCl
+    CH3 Cl + HCl -> CH2 Cl2 + HCl 第二次替换
+    ...
+    可以替换4次，有4个halogenoalkanes
+
+Litmus 石蕊，检测酸碱用的
+
+HCL(g) 
+    hydrogen chloride 气态分子
+    是无酸的，碰到石蕊变红
+
+HCL(aq)
+    hydrogenchloric acid 水溶液    
+    强酸性，碰到石蕊变蓝
+
+
+photochemical smog 光化学毒雾
+    NOx + CxHy ---需要光----> photochemical smog
+     |       |
+     |        \
+    汽车引擎   hydrocarbon
+    N2 + O
+
+
+activation energy 
+最少的需要启动反应的能量
+
+alkane 无法在黑暗中和 halogen 反应
+需要UV光或阳光
+
+
+
+Cracking 裂解
+    第三个alkane的反应
+    是一个 thermal decomposition 受热分解
+    要在高温下发生
+
+    裂解后的三种可能：
+        - 长 alkane -> 一个短 alkane + 一个短 alkene
+        - 长 alkane -> 一个短 alkane + 很多短 alkene
+        - 长 alkane -> 很多短 alkene + hydrogen (如 H2)
+
+    两个催化剂，加快反应：
+        Al2O3   aluminium oxide
+        SiO2    silicon(IV) oxide
+
+alkane - CnH2n+2
+alkene - CnH2n (n>2)
+
+catalyst 催化剂    
+
+
+在 Cracking 的实验后，应该先拿走管子，再关闭 bunsen burner
+    热胀冷缩，在管子中的空气变冷收缩，
+    管子连着的水会被吸回来 suck-back into the boiling tube，
+    提前拿走管子，水就不会吸回来
+
+
+saturated 饱和的
+phamaceutical 药物
+
+alkene 是用来做药品和塑料袋的
+
+

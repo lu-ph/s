@@ -1,0 +1,18 @@
+transformer 变压器
+| 
+| 升高或降低电压
+| 
+| 原理：Principle of Electromagnetic Induction
+| 
+| primary coil: 接收交流电
+| 让iron core有磁场，
+| iron core穿过secondary coil,
+|
+
+R = ρL / A
+电阻 = 电阻率 x 导体(电线)长度 / 导体(电线)横截面
+
+    R 电阻
+    ρ 电阻率 resistivity
+    L 导体的长度
+    A 导体的横截面积

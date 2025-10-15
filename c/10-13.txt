@@ -1,0 +1,57 @@
+fraction
+| 
+| Refinery gas - house hold cooking家用
+| 
+| Gasoline / petrol - motor vehicle 汽车
+| 
+| Naptha - chemical feedstock化工原料
+| 
+| Kerosene / paraffin - jet fuel航空
+| 
+| Diesel / gas oil - ship, truck fuel
+| 
+| Fuel oil - ship, truck fuel
+| 
+| Lubricating oil - wax, candle
+| 
+| Bitumen - asphalt沥青
+| 
+
+combustion = burning
+| 
+| 燃烧，当alkanes在氧气中加热时发生
+| 
+| complete combustion
+| 燃烧后有氧气剩余
+|   
+
+完全燃烧的情况：
+| 
+| alkane + 充足氧气 -> CO2 + water
+| CO2是无色气体，导致全球变暖
+| 
+
+不完全燃烧
+| 
+| alkane + 不充足的氧气 -> CO + water
+| 
+| CO是无色气体，有毒
+| 
+| alkane + 很少的氧气 -> C + water
+| 
+| 燃烧产生的 C 是黑色颗粒，吸入会导致cancer 
+| 
+
+alkane中carbon越多，越不容易燃烧
+所以fraction的chain越短，越是好的燃料
+
+
+
+
+substitution
+| 
+| 替代反应
+| 
+| 把链中的hydrogen(H)换成halogen
+| 
+| 
