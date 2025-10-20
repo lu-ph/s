@@ -1,0 +1,61 @@
+
+alkenes 更 reactive，有更多 reactions
+
+addition
+
+
+isomers
+    分子式相同，但原子排列方式不同的化合物
+    相同的 molecular formula (总的CxHx)
+    不同的 structual formulae (CHxCHx..)
+
+    有多少中情况的化合物排列方式，
+    就代表有多少个 isomers
+
+isotopes
+    同一个元素不同原子
+    例如两个原子有：
+        一样的 atomic number 
+        不同的 mass number
+
+alkene reaction: combustion 燃烧
+    和 alkane 一样，alkene 也可以燃烧
+    但是 alkene 的碳比例更多，黑烟更多
+
+    计算alkene中的碳: C2H6
+        C2的mass / C2H6的mass x 100%
+
+
+sooty 有黑烟的
+
+
+4个之前的homologous series:
+    alkanes
+        CnH2n+2 N>=1
+        functional group: none
+
+    alkenes
+        CnH2n N>=2       
+        functional group: c=c
+
+    alcohols
+        CnH2n+1 OH
+        functional group: -O-H
+
+    carboxylic acids
+        CnH2n+1 COOH
+        functional group:  - C = O
+                            \
+                                - O - H            
+
+bromine Br2
+
+hydrogen H2 
+
+steam H2O
+
+
+
+addition polymerization
+    alkene 像积木一样拼起来
+
