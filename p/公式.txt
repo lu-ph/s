@@ -24,4 +24,6 @@ emf
 | g = 重力加速度
 | h = 
 
+Power x Time = Energy
+  W       s      J
 

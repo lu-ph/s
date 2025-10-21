@@ -1,9 +1,6 @@
 
 alkenes 更 reactive，有更多 reactions
 
-addition
-
-
 isomers
     分子式相同，但原子排列方式不同的化合物
     相同的 molecular formula (总的CxHx)
@@ -46,13 +43,34 @@ sooty 有黑烟的
         CnH2n+1 COOH
         functional group:  - C = O
                             \
-                                - O - H            
+                              - O - H            
 
 bromine Br2
 
 hydrogen H2 
 
 steam H2O
+
+
+alkene 的 reaction: addition
+    
+    C = C   +   X - Y  ->  C - C 
+                           |   |
+                           X   Y
+
+    C = C   +   Br - Br  ->  C - C 
+                             |   |
+                             Br  Br                       
+
+    C = C   +   H - H  ----nickel(Ni)作为催化剂---->  C - C 
+                                                     |   |
+                                                     H   H                      
+
+    alkene + steam 可能会产生两种情况，这两种情况结构相互对称
+    C = C   +   H - OH  ----sulfuracid(H2SO4)作为催化剂---->  C - C   
+                                                             |   |
+                                                             H   OH                      
+
 
 
 
