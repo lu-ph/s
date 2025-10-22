@@ -1,0 +1,55 @@
+alkene
+    主要反应：addition
+        特点：打开C=C双键，原子或原子团直接加上去。
+    特殊情况下可发生其他反应：
+        combustion（燃烧）：与氧气反应。
+        substitution（取代反应）：在特定条件下（如高温），烷基部分的氢原子可被取代。
+        polymerization（聚合反应）：多个小分子连接成高分子。
+
+alkane
+    主要反应：substitution
+        条件：UV光 或热。
+    其他反应：
+        combustion（燃烧）：与氧气反应，生成CO2和H2O。
+        cracking（裂化反应）：在高温下，长链烷烃断裂成短链烷烃和烯烃。
+
+alkane 特性：saturated（饱和）
+    只有 single bond（单键）
+    无法进行 addition 反应
+    只能进行 substitution 反应
+
+alkene 特性：unsaturated（不饱和）
+    有 C=C 双键
+
+distinguish（分辨方法）：
+    使用 bromine water（溴水）
+        溴水颜色：橙色
+        遇到 C=C 双键：变为无色
+
+CH4 与 Cl2 反应：
+    类型：substitution（替换反应）
+    产物：5种
+        4种替换 H 的新物质
+        1种 HCl
+
+alkene：
+    无法进行 substitution 反应
+
+实验关键：
+    alkane + 溴水（黑暗中）：无反应，溴水保持橙色
+    alkene + 溴水：发生反应，溴水褪色
+
+
+addition polymerization 加成聚合反应    
+
+    ethene  ->   poly(ethene)   PE
+    |   |        |   |   |  
+  - C = C - ->   C - C - C - ...
+    |   |        |   |   |
+
+    propene ->   poly(propene)   PP
+   CH3  H       CH3  H  CH3  H
+    |   |        |   |   |   |
+  - C = C - ->   C - C - C - C - ... 
+    |   |        |   |   |   |
+
