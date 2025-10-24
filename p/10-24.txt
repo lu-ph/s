@@ -37,7 +37,7 @@ fuses 保险丝
 
     发热量 = I^2 x R
 
-
+    
 
 
 fuse rating

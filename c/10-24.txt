@@ -1,0 +1,35 @@
+
+
+
+poly(alkene) 是一个 alkane
+    alkene 经过 addition polymer 后其实是alkane
+    addition polymer 后没有 c=c 了是alkane 
+
+
+
+bromine water 和 monomer(addition polymer之前的东西) 反应后依旧是橙色
+
+
+monomer 的 intermolecular 较弱
+addition polymer 的 intermolecular 较强
+    所以 addition polymer 是固体，monomer是气体
+    分子间吸引力强就不容易分开出去变成气体
+
+    intermolecular force 越弱
+    volatility 挥发性(变成气体) 越强
+
+monomer 的 boiling point 低
+addition polymer 的 boiling point 高
+
+
+
+cracking = thermal decomposition 受热分解
+    cracking 发生时一定要 
+        1 高温
+        2 催化剂 Al2O3, SiO2
+
+
+在 alkane 与 steam H2O(g) 发生 addition 反应时
+    H2O 可以被看成 H OH 来反应
+    
+            
