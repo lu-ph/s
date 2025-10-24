@@ -1,0 +1,54 @@
+
+50hz 
+    1秒内 完成50个完整周期
+    1秒内 电流方向改变100次
+
+为什么传输电需要高电压
+    因为 P = I x V
+    电压更高，电流变低
+    
+    浪费的能量 P loss = I^2 x R
+    那么I越小，浪费的能量越少
+
+
+electric shok 触电
+
+
+earthing
+    确保 live wire 
+
+shorting 短路
+
+电子抄近路
+    一个并联电路，
+    两条分支，一条有电器电阻高
+    另一条没有电器，没有电阻，
+    电子只会经过没有电阻的地方
+
+触电
+    
+     
+    
+
+fuses 保险丝    
+    电压过高自己熔断，断开电路
+    保险丝是一段特殊金属丝，如铅锡合金、锌、铜
+    它有电阻，当电流流过它时，它发热
+
+    发热量 = I^2 x R
+
+
+
+
+fuse rating
+    保险丝能通过的最大电流
+    高过这个电流就熔断
+
+跳闸开关/断路器    
+    trip switches
+    circuit breakers
+
+trip switches/circuit breakers对比fuse的优点
+    它可以被重新设置 reset
+    在电线overheat的时候它可以更快地切断电路
+

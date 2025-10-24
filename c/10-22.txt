@@ -44,12 +44,17 @@ addition polymerization 加成聚合反应
 
     ethene  ->   poly(ethene)   PE
     |   |        |   |   |  
-  - C = C - ->   C - C - C - ...
+    C = C   ->   C - C - C - ...
     |   |        |   |   |
 
     propene ->   poly(propene)   PP
    CH3  H       CH3  H  CH3  H
     |   |        |   |   |   |
-  - C = C - ->   C - C - C - C - ... 
+    C = C   ->   C - C - C - C - ... 
     |   |        |   |   |   |
+
+    在polymer发生时，只有 c=c 发生改变
+
+
+
 
