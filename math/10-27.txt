@@ -1,0 +1,15 @@
+polygon 多边形
+
+pent 5
+hex 6
+hept 7
+oct 8 八达通
+non 9
+deca 10 
+
+
+长方体 cuboid
+圆柱体 cylinder
+底为正方形的四棱锥 square-based pyramid
+圆锥 cone
+正方体 cube
