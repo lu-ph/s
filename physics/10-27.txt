@@ -1,0 +1,31 @@
+transverse wave 横向波
+    例子 light wave / water wave
+
+longitudinal wave 纵向波
+    例子 声波 soundwave
+
+work = force x distance    
+
+
+wave length 相邻的波的最高点的距离
+
+amplitude 振幅，
+
+
+f = 1 / T 
+    f 表示 频率（frequency），单位是赫兹（Hz），即“每秒振动的次数”
+    T 表示 周期（period），单位秒，即完成一次完整振动所需的时间
+
+
+electromagnetic wave 电磁波
+    是 transverse wave 横向波
+    所有em wave 在真空中的传播速度 3.00×10^8 m/s
+
+
+v = λ x f
+    波速 = 波长 × 频率
+    波速 波在1 秒内传播的距离
+
+    频率越大，波长越小
+
+    频率越大，每秒振动的次数越多，能量越大
