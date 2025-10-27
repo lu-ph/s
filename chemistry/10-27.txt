@@ -1,0 +1,39 @@
+
+functional group:
+    reactive part of a molecules that controls its chemical properties    
+
+
+alcohols 
+    不是 hydrocarbon ，不是碳氢化合物
+    因为它包括 C, H 以外的 O，
+
+    general formula: 
+        CnH2n+1 OH
+        n >= 1
+
+    suffix 后缀:
+        anol 或 an-??-ol    
+
+    C           C
+    |           |
+   OH  错       OH  对
+
+   
+
+ethanol 
+    是一个溶剂 solvent
+    溶剂可以 dissolve 溶质 
+
+    是一个燃料 fuel
+
+当ethanol被用作溶剂的时候，有两种溶剂
+    aqueous solvent
+        solvent with water
+
+    organic solvent
+        solvent without water
+
+
+
+acidic酸性的 -> 有 H+ -> 石蕊变蓝
+
