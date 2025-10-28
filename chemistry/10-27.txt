@@ -37,3 +37,40 @@ ethanol
 
 acidic酸性的 -> 有 H+ -> 石蕊变蓝
 
+alcohol 相比 alkane, alkene(hydrocarbon) 是更好的燃料，因为它自己就有氧气(O)可以燃烧
+
+exothermic 放热
+endothermic 吸热
+    
+ethanol燃烧的时候，是在放热，所以delta H (H的变化) 是负negative的
+    箭头指向下面，箭头从reactant 指向 product    delta H < 0
+
+
+manufacture = make
+
+
+有两种方法制作ethanol:
+
+    alcoholic fermentation 发酵
+        从葡萄糖 glucose 开始制作
+        葡萄糖从植物的光合作用中来，例如 甘蔗 sugar cane
+
+        C6 H12 O6 ---- 25到35摄氏度 + 酵母yeast ----> 2 C2H5OH + 2 CO2
+         glucose                                     ethanol  + carbon dioxide
+
+        桶内从清透的变成浑浊的
+            因为酵母 multiplied
+
+        坏处：1 需要很长时间
+             2 它生产ethanol的速度会越来越慢 
+                ethanol会杀死酵母，酵母到后面会越来越少最终全部死完
+                它可以用来制造酒精度不高的喝的酒
+                但是不能用来制作85%的酒精
+
+        好处：1 操作简单，
+             2 葡萄糖从植物中来，植物是可再生资源
+
+
+    catalytic hydration
+        从 ethene 开始制作
+

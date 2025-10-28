@@ -1,0 +1,27 @@
+波的基本类型
+- 横波（Transverse wave）：振动方向垂直于波的传播方向。例子：光波、水波。
+- 纵波（Longitudinal wave）：振动方向平行于波的传播方向。例子：声波。
+
+波的关键术语
+- 振幅（Amplitude）：波上某点离开平衡位置的最大位移。
+- 波长（Wavelength, λ）：相邻两个相同相位点之间的距离（如波峰到波峰）。
+- 频率（Frequency, f）：每秒通过某一点的完整波的数量，单位是赫兹（Hz）。
+- 周期（Period, T）：一个完整波通过某点所需的时间，单位是秒（s）。
+  关系式：T = 1/f 或 f = 1/T
+
+电磁波（Electromagnetic Waves）
+- 是横波，由相互垂直振荡的电场和磁场组成。
+- 在真空中传播速度相同：v = 3.0 × 10^8 m/s（光速）
+- 在空气中速度近似相同。
+- 电磁波谱（按频率从低到高 / 波长从长到短）包括：
+  无线电波 →      微波 →       红外线  →     可见光        → 紫外线 →     X射线 →   γ射线           波长短、频率高
+  Radio waves → Microwaves → Infrared → Visible light → Ultraviolet → X-rays → Gamma rays
+
+波速公式（Wave Equation）
+v = f λ
+- 当波速 v 恒定时（如在真空中），频率与波长成反比。
+- 频率越高，能量越高。
+
+其他公式
+- 功（Work done）：W = F × d
+  其中 F 是力，d 是沿力方向移动的距离。
