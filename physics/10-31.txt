@@ -1,0 +1,84 @@
+
+  波長長       无线电波 →      微波 →       红外线  →     可见光        → 紫外线 →     X射线 →   γ射线        波长短 
+  频率低      Radio waves → Microwaves → Infrared → Visible light → Ultraviolet → X-rays → Gamma rays      频率高
+
+
+
+radio wave 
+    电台信号
+    可以长距离传播，因为波长较长，不容易被absorbed
+
+microwave 
+    卫星传播信号
+    可以穿过大气层，不会反射或折射
+
+infrared 红外线
+    thermal camera 检测热的相机
+    all object emit(散发) infrared radiation
+    所有物体都散发红外线
+
+visible light
+    光纤 optical fibre
+    因为高的频率能传输更多信息
+    
+ultraviolet 紫外线
+    kill the bacterias
+    杀菌
+
+x-rays  
+    检测骨头是否断裂
+
+    原理：
+        x-ray能穿过皮肤、肌肉和衣服，但是不能穿过骨头，
+        展示的图片中骨头变成白色
+        用电脑显示这个图像
+
+gamma-rays
+    医疗器械
+    detection of cancer 
+    检测癌症
+
+
+
+危险：
+    很多的microwaves: heating
+    很多的infrared: skin burns
+    很多的ultraviolet: 导致皮肤癌 skin cancer, 伤眼睛 damage to eyes
+
+    x-rays, gamma-rays: 杀死过多细胞
+
+
+particle arrangement
+    固体的分子排布
+        touching, regular pattern
+
+    液体的分子排布
+        touching, random arrangement    
+
+    气体的分子排布
+        far apart, random fills container
+
+
+particle 移动方式
+    固体 
+        受热时，分子振动(vibrate)，不移动
+
+    液体 
+        受热时 move around
+
+    气体
+        受热时 move in all direction randomly
+
+
+热的传导方式
+    conduction
+        只在固体中
+        需要固体接触才能发生
+
+        一个固体受热后分子振动
+        接触另一个冷的固体，热的固体的分子振动带动冷的固体振动
+
+    convention    
+        只在液体、气体中
+
+        一个区域的气体受热乱飞，然后飞到其他冷的地方

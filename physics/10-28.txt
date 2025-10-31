@@ -14,8 +14,11 @@
 - 在真空中传播速度相同：v = 3.0 × 10^8 m/s（光速）
 - 在空气中速度近似相同。
 - 电磁波谱（按频率从低到高 / 波长从长到短）包括：
-  无线电波 →      微波 →       红外线  →     可见光        → 紫外线 →     X射线 →   γ射线           波长短、频率高
-  Radio waves → Microwaves → Infrared → Visible light → Ultraviolet → X-rays → Gamma rays
+  波長長，頻率低      无线电波 →      微波 →       红外线  →     可见光        → 紫外线 →     X射线 →   γ射线           波长短、频率高
+                    Radio waves → Microwaves → Infrared → Visible light → Ultraviolet → X-rays → Gamma rays
+
+  wavelength波長 越小，頻率越大，能量越大
+
 
 波速公式（Wave Equation）
 v = f λ
