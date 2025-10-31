@@ -1,0 +1,63 @@
+
+
+
+
+
+
+alcoholic fermentation                     catalytic hydration
+
+ glucose                                    ethene                      raw material
+
+ sustainable 可持续的                       not sustainable               持续性
+ renewable 可再生的                          non-renewable                是否可再生
+
+ 25-30度                                     300度温度，60ATM压力       reaction conditoin
+
+ yeast                                      acid catalyst H2SO4            catalyst
+
+ lower                                      higher                      纯净度 purity
+
+ wine / beer                                for sanitization消毒          用途
+
+
+
+
+
+
+carbon newtral 碳中和：不排出碳
+
+生产出的bioethanol是碳中和的
+    生产bioethanol需要植物，
+    虽然ethanol燃排放CO2，但是植物吸收CO2
+
+    但是fossil fuels不是碳中和的，
+    
+
+
+catalytic hydration 过程
+
+    fossil fuel  
+        |
+        |  通过分馏
+        |
+    alkane
+        |
+        |  通过cracking
+        |
+    short alkene
+        |
+        |  +H2O hydration
+        |
+    ethanol(high purity 高纯度)
+
+
+alcoholic fermentation 过程
+
+    plant
+        |
+        | 
+    glucose C6H12O6 
+        |
+        | fermentation: 酵母发酵
+        |
+    ethanol(low purity 低纯度，因为ethanol会酵母，酵母到后面越来越少) 
